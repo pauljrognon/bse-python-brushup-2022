@@ -1,4 +1,4 @@
-# Hello World Preparatory Assignment
+# Hello World Assignment
 
 This assignment will prepare your computing environment and introduce you to the tools we will use in all the brushups material. Steps:
 
