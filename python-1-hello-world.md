@@ -6,4 +6,4 @@ This assignment will prepare your computing environment and introduce you to the
 
 2. Complete the following assignment: [Hello World Assignment](https://classroom.github.com/a/c5Lkq2eq){:target="_blank" rel="noopener"}. It will walk you through all the steps needed to set up a Unix computing environment with Python and Git and give you practice completing an assignment on Github Classroom, the platform we will use for the rest of the course.
 
-[Back to the main page](./README.md)
+[Back to the main page](./index.md)
