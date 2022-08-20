@@ -3,7 +3,7 @@ title: Previous Lectures and Videos
 ---
 {% include navigation.html %}
 
-To help you complete the assignments, you will find a set of recorded lectures below that introduce you to the concepts needed. Along with the videos, you will find a link to the slides in HTML format. You can also find a PDF version of the slides [in this Github respository](https://github.com/Jordi-Llorens/computing-brushup-21){:target="_blank" rel="noopener"}.
+You can find lectures and videos from the previous years below. They introduce many of the concepts that you will learn during the brush-up course. The content overlaps with the current one, but not completely. The purpose of these materials is to provide additional support for you during the course. Altough, those of you who feel that they need more preparation before the course starts can already start watching through these videos. Along with the videos, you will find a link to the slides posted on this website.
 
 ## 0. Introduction to Python + Variables
 
@@ -82,3 +82,5 @@ This module includes information about working with modules and loading JSON dat
 ### Working with JSON Data
 [slides](./old-lectures/json.html){:target="_blank" rel="noopener"}
 {% include youtube.html id="Iu0Yeg2douY" %}
+
+Credits: Nandan Rao
