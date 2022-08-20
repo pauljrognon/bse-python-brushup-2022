@@ -3,6 +3,8 @@ title: Home
 ---
 {% include navigation.html %}
 
+*Update: Note that you got free access to DataCamp, a platform that provides a lot of online programming courses. The invitation to the DataCamp Classroom was sent to your emails. There are several assignments given to those who join the group. You are not required to totally complete them all to pass the brush-up course, but those of you who want more resources for independent practice should use this opportunity. If you have not gotten the invite or have any other questions, do not hesitate to contact me via this email: maxim.fedotov@bse.eu.* 
+
 Welcome and congratulations on your enrollment to Data Science Methodology program at Barcelona School of Economics.
 
 This is the web-page of the programming brush-up course: Introductory and Intermediate Computing for Data Science 2022. I will be uploading all the exercises and contents of the course before the course starts.
