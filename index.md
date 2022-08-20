@@ -1,6 +1,8 @@
 ---
 title: Home
 ---
+{% include navigation.html %}
+
 Welcome and congratulations on your enrollment to Data Science Methodology program at Barcelona School of Economics.
 
 This is the web-page of the programming brush-up course: Introductory and Intermediate Computing for Data Science 2022. I will be uploading all the exercises and contents of the course before the course starts.
@@ -8,7 +10,7 @@ This is the web-page of the programming brush-up course: Introductory and Interm
 Have a look at the <a href="docs/syllabus.pdf" target="_blank">syllabus</a> and the welcome email that you've got from the program office to learn more about this course. Checkout the requirements below to prepare for the course start. 
 
 ***Requirements:***
-* Complete the mini [Hello World Assignment](./python-1-hello-world.md) which will help you to set up your programming tools and prepare for the course. It does not touch the R part of the course though.
+* Complete the mini [Hello World Assignment](./python/python-1-hello-world.md) which will help you to set up your programming tools and prepare for the course. It does not touch the R part of the course though.
 * Install [R](https://cloud.r-project.org) and [Rstudio](https://www.rstudio.com/products/rstudio/download/#download).
 * It is crucial that you bring your own laptops. For this course I have no particular hardware requirements, and for the rest of the master's you might not need a particularly strong machine. The reason is that in order to perform heavy computations or store lots of data you should consider connecting to a server (typically on cloud, such as Amazon Web Services) rather than doing it locally. You will use your laptop on the exam(s) and during the classes.
 
