@@ -7,6 +7,7 @@
             {{ item.title }}
         {% endif %} 
         {% if item.subnav %}
+            :
             {% for subitem in item.subnav %}
                 &gt; <a href="{{ subitem.link }}">{{ subitem.title }}</a>
             {% endfor %}

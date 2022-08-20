@@ -1,10 +1,10 @@
 - title: Home
-  link: /
+  link: ../
 
 - title: Python
   subnav:
     - title: Hello World
-      link: /python/python-1-hello-world.md
+      link: ../python/python-1-hello-world.md
 
 - title: Previous Year Videos
-  link: /old-videos.html
+  link: ../old-videos.html
