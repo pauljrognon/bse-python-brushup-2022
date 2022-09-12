@@ -8,7 +8,10 @@ On this page I will be posting and updating lectures, exercises and materials fo
 ## Python
 
 ### Lectures
-[Class 1](./docs/python-lectures/class_1.ipynb), [Class 2](./docs/python-lectures/class_2.ipynb), [Class 2 (Conditionals and Raising Exceptions)](./docs/python-lectures/class_2_conditionals.html), [Class 3](./docs/python-lectures/class_3.ipynb), [Class 4](./docs/python-lectures/class_4.ipynb), [Class 4 (OOP)](./docs/python-lectures/class_4_oop.html), [Class 4 (OOP car example)](./docs/python-lectures/class_4_oop_example.py)
+Class 1: [Introduction, Variables, Basic Data Types, Expressions, Comparisons](./docs/python-lectures/class_1.ipynb)  
+Class 2: [Functions, Catching Exceptions](./docs/python-lectures/class_2.ipynb), [Conditionals and Raising Exceptions](./docs/python-lectures/class_2_conditionals.html)  
+Class 3: [Sequence Types, Loops, List Comprehensions, Dictionaries, Set Types](./docs/python-lectures/class_3.ipynb)  
+Class 4: [Handling Parameters: zip, itertools, Handling Functions: map, lambda](./docs/python-lectures/class_4.ipynb), [Object Oriented Programming in Python](./docs/python-lectures/class_4_oop.html), [Script: Car Example](./docs/python-lectures/class_4_oop_example.py)
 
 ### Exercises
 
