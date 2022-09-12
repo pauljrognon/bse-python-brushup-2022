@@ -8,7 +8,7 @@ On this page I will be posting and updating lectures, exercises and materials fo
 ## Python
 
 ### Lectures
-[Class 1](./docs/python-lectures/class_1.ipynb), [Class 2](./docs/python-lectures/class_2.ipynb), [Class 3](./docs/python-lectures/class_3.ipynb), [Class 4](./docs/python-lectures/class_4.ipynb)
+[Class 1](./docs/python-lectures/class_1.ipynb), [Class 2](./docs/python-lectures/class_2.ipynb), [Class 3](./docs/python-lectures/class_3.ipynb), [Class 4](./docs/python-lectures/class_4.ipynb), [Class 4 (OOP)](./docs/python-lectures/class_4_oop.html)
 
 ### Exercises
 
