@@ -38,7 +38,6 @@ def is_even(num):
 # an exception.
 
 def car_at_light(light):
-    instructions = {"red": "stop", "yellow": "wait", "green": "go"}
     if light == "red":
         return "stop"
     elif light == "yellow":
