@@ -17,8 +17,16 @@ Solutions: [scripting](./docs/shell-solutions/scripting.tar.gz), [whodunit](./do
 Class 1: [Introduction, Variables, Basic Data Types, Expressions, Comparisons](./docs/python-lectures/class_1.ipynb)  
 Class 2: [Functions, Catching Exceptions](./docs/python-lectures/class_2.ipynb), [Conditionals and Raising Exceptions](./docs/python-lectures/class_2_conditionals.html)  
 Class 3: [Sequence Types, Loops, List Comprehensions, Dictionaries, Set Types](./docs/python-lectures/class_3.ipynb)  
-Class 4: [Handling Parameters: zip, itertools, Handling Functions: map, lambda](./docs/python-lectures/class_4.ipynb), [Object Oriented Programming in Python](./docs/python-lectures/class_4_oop.html), [Script: Car Example](./docs/python-lectures/class_4_oop_example.py)
+Class 4: [Handling Parameters: zip, itertools, Handling Functions: map, lambda](./docs/python-lectures/class_4.ipynb), [Object Oriented Programming in Python](./docs/python-lectures/class_4_oop.html), [Script: Car Example](./docs/python-lectures/class_4_oop_example.py)  
 Class 5: [OOP (cont'd) and Modules](./docs/python-lectures/class_5_oop_modules.tar.gz)
 
 ### Exercises
 [Hello World](./python/python-1-hello-world.md),[Functions](https://classroom.github.com/a/dAjlnfKT) ([solution](./docs/python-solutions/python-functions-solution.py)), [Conditionals](https://classroom.github.com/a/Yow3m5e2) ([solution](./docs/python-solutions/python-conditionals-solution.py)), [Loops](https://classroom.github.com/a/ShzbLvYq) ([solution](./docs/python-solutions/python-loops-solution.py)), [Dictionaries](https://classroom.github.com/a/ZuujAbfK) ([solution](./docs/python-solutions/python-dictionaries-solution.py)), [Classes](https://classroom.github.com/a/Kuke8ppB), [JSON](https://classroom.github.com/a/mWPvThPo).
+
+## R
+All the main materials are incorporated into a GitHub Classroom assignment: [R: Tutorial](https://classroom.github.com/a/j3WyUiaa). 
+
+You can find the in-class handouts there together with some practical exercises. For more information, please read the README file in the repo.
+
+I will also post an extra repo a bit later which will contain materials on linear models in R.
+
