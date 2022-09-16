@@ -5,6 +5,17 @@ title: Materials
 
 On this page I will be posting and updating lectures, exercises and materials for the current year brushup.
 
+## How to complete the tests
+To complete the test:  
+1. Accept the assignment.
+2. Clone the repository to your local machine using `git clone`.
+3. Complete the exercises\[.R / .py\] script.
+4. Add, commit and push your changes using `git` commands.
+5. Check that your push is successful. 
+6. You can see the autograder result in the "Actions" tab in your GitHub repo. You will see a "workflow" with a message of your commit, just press it.
+
+*ATTENTION:* do not use `setwd()` in your code in R.
+
 ## Shell (Command Line Interfaces)
 Have a look at the shell exercises [here](https://classroom.github.com/a/3d8BeanH). 
 
@@ -23,19 +34,11 @@ Class 5: [OOP (cont'd) and Modules](./docs/python-lectures/class_5_oop_modules.t
 ### Exercises
 [Hello World](./python/python-1-hello-world.md),[Functions](https://classroom.github.com/a/dAjlnfKT) ([solution](./docs/python-solutions/python-functions-solution.py)), [Conditionals](https://classroom.github.com/a/Yow3m5e2) ([solution](./docs/python-solutions/python-conditionals-solution.py)), [Loops](https://classroom.github.com/a/ShzbLvYq) ([solution](./docs/python-solutions/python-loops-solution.py)), [Dictionaries](https://classroom.github.com/a/ZuujAbfK) ([solution](./docs/python-solutions/python-dictionaries-solution.py)), [Classes](https://classroom.github.com/a/Kuke8ppB)([solution](./docs/python-solutions/python-classes-solution.py)), [JSON](https://classroom.github.com/a/mWPvThPo)([solution tweet_data.py](./docs/python-solutions/python-json-tweet-data-solution.py), [solution exercises.py](./docs/python-solutions/python-json-solution.py)).
 
-### Test
+### Test Python
 Complete the test: ["Python: Test"](https://classroom.github.com/a/369Bl5Gk)  
 Deadline: 20/09/22 23:59  
 Grading: each exercise gives 10 points  
 Passing grade: 60 / 110
-
-To complete the test:  
-1. Accept the assignment.
-2. Clone the repository to your local machine using `git clone`.
-3. Complete the exercises.py script.
-4. Add, commit and push your changes using `git` commands.
-5. Check that your push is successful. 
-6. You can see the autograder result in the "Actions" tab in your GitHub repo. You will see a "workflow" with a message of your commit, just press it.
 
 ## R
 All the main materials are incorporated into a GitHub Classroom assignment: ["R: Tutorial"](https://classroom.github.com/a/j3WyUiaa). 
@@ -43,3 +46,9 @@ All the main materials are incorporated into a GitHub Classroom assignment: ["R:
 You can find the in-class handouts there together with some practical exercises. For more information, please read the README file in the repo.
 
 I will also post an extra repo a bit later which will contain materials on linear models in R.
+
+### Test R
+Complete the test: ["R: Test"](https://classroom.github.com/a/tJNTB1Bx)  
+Deadline: 20/09/22 23:59  
+Grading: each exercise gives 10 points  
+Passing grade: 50 / 100
