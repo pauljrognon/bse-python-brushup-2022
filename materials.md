@@ -24,10 +24,10 @@ Class 5: [OOP (cont'd) and Modules](./docs/python-lectures/class_5_oop_modules.t
 [Hello World](./python/python-1-hello-world.md),[Functions](https://classroom.github.com/a/dAjlnfKT) ([solution](./docs/python-solutions/python-functions-solution.py)), [Conditionals](https://classroom.github.com/a/Yow3m5e2) ([solution](./docs/python-solutions/python-conditionals-solution.py)), [Loops](https://classroom.github.com/a/ShzbLvYq) ([solution](./docs/python-solutions/python-loops-solution.py)), [Dictionaries](https://classroom.github.com/a/ZuujAbfK) ([solution](./docs/python-solutions/python-dictionaries-solution.py)), [Classes](https://classroom.github.com/a/Kuke8ppB)([solution](./docs/python-solutions/python-classes-solution.py)), [JSON](https://classroom.github.com/a/mWPvThPo)([solution tweet_data.py](./docs/python-solutions/python-json-tweet-data-solution.py), [solution exercises.py](./docs/python-solutions/python-json-solution.py)).
 
 ### Test
-Complete the test: ["Python: Test"](https://classroom.github.com/a/369Bl5Gk)
-Deadline: 20/09/22 23:59
-Grading: each exercise gives 10 points
-Passing grade: 60 / 110 
+Complete the test: ["Python: Test"](https://classroom.github.com/a/369Bl5Gk)  
+Deadline: 20/09/22 23:59  
+Grading: each exercise gives 10 points  
+Passing grade: 60 / 110
 
 To complete the test:  
 1. Accept the assignment.
