@@ -48,7 +48,7 @@ All the main materials are incorporated into a GitHub Classroom assignment: ["R:
 
 You can find the in-class handouts there together with some practical exercises. For more information, please read the README file in the repo.
 
-I will also post an extra repo a bit later which will contain materials on linear models in R.
+You can access the materials on linear models in R from [this archive](./docs/Rextra.tar.gz).
 
 ### Test R
 Complete the test: ["R: Test"](https://classroom.github.com/a/tJNTB1Bx)  
