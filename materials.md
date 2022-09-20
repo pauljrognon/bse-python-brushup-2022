@@ -12,7 +12,7 @@ To complete the test:
 3. Complete the exercises\[.R / .py\] script.
 4. Add, commit and push your changes using `git` commands.
 5. Check that your push is successful. 
-6. You can see the autograder result in the "Actions" tab in your GitHub repo. You will see a "workflow" with a message of your commit, just press it.  
+6. **IMPORTANT** Check that the autograder graded your submission correctly!!! Do not leave any leftovers in your scripts (like variables you added to check the correctness of your functions etc.)!!! To see the autograder feedback and logs, open the "Actions" tab in your GitHub repo. You will see a "workflow" with a message of your commit, just click on it and there you will find your grade and a button that says "Autograding". If you want to see more informative logs, just click on this button.  
 Only the latest push before the deadline is taken into account!
 
 *ATTENTION:* do not use `setwd()` in your code in R.
