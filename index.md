@@ -3,16 +3,15 @@ title: Home
 ---
 {% include navigation.html %}
 
-___
-**Update**: *Note that you got free access to DataCamp, a platform that provides a lot of online programming courses. The invitation to the DataCamp Classroom was sent to your emails. There are several assignments given to those who join the group. You are not required to totally complete them all to pass the brush-up course, but those of you who want more resources for independent practice should use this opportunity. If you have not gotten the invite or have any other questions, do not hesitate to contact me via this email: maxim.fedotov@bse.eu.* 
-
-___
-
 Welcome and congratulations on your enrollment to Data Science Methodology program at Barcelona School of Economics.
 
 This is the web-page of the programming brush-up course: Introductory and Intermediate Computing for Data Science 2022. I will be uploading all the exercises and contents of the course before the course starts.
 
-Have a look at the <a href="docs/syllabus.pdf" target="_blank">syllabus</a> and the welcome email that you've got from the program office to learn more about this course. Checkout the requirements below to prepare for the course start. 
+Have a look at the <a href="docs/syllabus.pdf" target="_blank">syllabus</a> and the welcome email that you've got from the program office to learn more about this course.
+
+Note that you got free access to DataCamp, a platform that provides a lot of online programming courses. The invitation to the DataCamp Classroom was sent to your emails in August. Do not loose this opportunity to practice. If you did not get the invite or have any other questions, do not hesitate to contact me via this email: maxim.fedotov@bse.eu.
+
+Checkout the requirements below to prepare for the course start. 
 
 ***Requirements:***
 * Complete the mini [Hello World Assignment](./python/python-1-hello-world.md) which will help you to set up your programming tools and prepare for the course. It does not touch the R part of the course though.
