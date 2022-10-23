@@ -3,25 +3,26 @@ title: Home
 ---
 {% include navigation.html %}
 
-Welcome and congratulations on your enrollment to Data Science Methodology program at Barcelona School of Economics.
+This site will host all the information and material for the brush-up. Credits for the material go to Miquel Torrens i Dinarès, Nandan Rao and Maxim Fedotov.
 
-This is the web-page of the programming brush-up course: Introductory and Intermediate Computing for Data Science 2022. I will be uploading all the exercises and contents of the course before the course starts.
+Sessions:
+* Session 1: 10:30AM-12:30AM, Room: 20.027.
+* Session 2: 9AM-11AM, Room: 40.254.
+* 10 minute break after the first hour.
 
-Have a look at the <a href="docs/syllabus.pdf" target="_blank">syllabus</a> and the welcome email that you've got from the program office to learn more about this course.
+Material:
+* In section "Material", you will find Jupyter Notebooks to be covered in class and some exercises.
+* In section "Complements", you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
 
-Note that you got free access to DataCamp, a platform that provides a lot of online programming courses. The invitation to the DataCamp Classroom was sent to your emails in August. Do not loose this opportunity to practice. If you did not get the invite or have any other questions, do not hesitate to contact me via this email: maxim.fedotov@bse.eu.
+Contact:
+* Email: paul.rognon@bse.eu
+* Office: 23.101, Mercè Rodoreda building (23), 1st floor.
 
-Checkout the requirements below to prepare for the course start. 
-
-***Requirements:***
-* Complete the mini [Hello World Assignment](./python/python-1-hello-world.md) which will help you to set up your programming tools and prepare for the course. It does not touch the R part of the course though.
-* Install [R](https://cloud.r-project.org) and [Rstudio](https://www.rstudio.com/products/rstudio/download/#download).
-* It is crucial that you bring your own laptops. For this course I have no particular hardware requirements, and for the rest of the master's you might not need a particularly strong machine. The reason is that in order to perform heavy computations or store lots of data you should consider connecting to a server (typically on cloud, such as Amazon Web Services) rather than doing it locally. You will use your laptop on the exam(s) and during the classes.
+***Technical environment***
+Please bring your laptop to class. To run the notebooks:
+* [Google Colab](https://colab.research.google.com/) (simpler, runs in the cloud, need a Google account e.g. BSE account): `File > Upload notebook` and upload brush-up `.ipynb` notebooks. Alternatively, you can create a new notebook by doing `File > New notebook`. [Here](https://www.youtube.com/watch?v=inN8seMm7UI) is an introductory video about Google Colab.
+* Jupyter Notebook (runs on your computer): you can install Python and Jupyter Notebook by installing [Anaconda](https://docs.jupyter.org/en/latest/install/notebook-classic.html). Alternatively, you can install [Python](https://www.python.org/downloads/) and [Jupyter Notebook]((https://docs.jupyter.org/en/latest/install/notebook-classic.html)) separately. Launch Jupyter Notebook, find and click on the brush-up `.ipynb` notebooks to open them.
 
 ***Comments:***
-* I recommend you to come with a Unix-based Operating System. It is more flexible in terms of different action permissions. In addition, there are some data science tools out there that are designed for Unix/Linux. Although, if you have Windows, then you can still stick with it if you prefer. Just keep in mind that I might not be able to give you optimal assistance if you come with Windows.
-* Regarding installing Linux on your machine, there are different options. If you have enough memory on your hard drive, you can install Linux OS alongside with Windows as dual-boot (you can find many tutorials on the Internet on how to do this). If you have a relatively strong machine, a virtual machine with a Linux operating system would work as well. It is also possible to install a Linux OS on an external drive (e.g. SSD) and boot from it. However, I do not really recommend this option since it might be prone to bugs and errors and very much depends on quality of the said external drive.
-* In the Hello World assignment you are asked to install [Git](https://git-scm.com/), a version control system, and create a [GitHub](https://github.com) account. Basically, Git is a version control environment which you interact with through your system's command line. Whereas GitHub is a provider of on-line hosting for software development and version control using Git. You will also find out [here](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6) how to connect your local Git distribution with a GitHub account.
-* Programming and computing is largely learning-by-doing. Hence, the classes will involve a lot of practice. There will be many small computing assignments interspersed throughout the course; and, again, you will need your own laptop to follow these. I will be there to guide you through the process, answer any questions and speed up the learning process.
-
-I'm looking forward to meeting you all and do let me know if you have any questions. You can contact me via this email: maxim.fedotov@bse.eu.
+* Please ask any question you might have.
+* Python is one of the most popular programming languages. You will find plenty of ressources on internet and in particular on Stack Overflow. Just google your doubts!
