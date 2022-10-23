@@ -10,11 +10,9 @@ You can find lectures and videos from the previous years below. They introduce m
 This module gives a brief introduction to Python and shows how variable assignment works in Python.
 
 ### What is Python
-[slides](./old-lectures/python.md){:target="_blank" rel="noopener"}
 {% include youtube.html id="hw3JgLE_pUc" %}
 
 ### Variables
-[slides](./old-lectures/variables.md){:target="_blank" rel="noopener"}
 {% include youtube.html id="0nm8_ekQgps" %}
 
 
@@ -23,11 +21,9 @@ This module gives a brief introduction to Python and shows how variable assignme
 This module introduces the two most fundamental building blocks for building programs in Python: functions and exceptions.
 
 ### Functions
-[slides](./old-lectures/functions.md){:target="_blank" rel="noopener"}
 {% include youtube.html id="hI5nlD6ljoE" %}
 
 ### Catching Exceptions
-[slides](./old-lectures/exceptions.md){:target="_blank" rel="noopener"}
 {% include youtube.html id="WkgwPQYVauY" %}
 
 
@@ -58,7 +54,6 @@ This module introduces two important data structures, the Tuple and the Dictiona
 {% include youtube.html id="BjxJ0Z-0g5g" %}
 
 ### Dictionaries
-[slides](./old-lectures/dictionaries.html){:target="_blank" rel="noopener"}
 {% include youtube.html id="B3hF1TA4p90" %}
 
 
@@ -67,7 +62,6 @@ This module introduces two important data structures, the Tuple and the Dictiona
 This modules introduces the basic building block of Object Oriented Programming (OOP): the class.
 
 ### Classes
-[slides](./old-lectures/classes.html){:target="_blank" rel="noopener"}
 {% include youtube.html id="HYdIjGJCDf4" %}
 
 
@@ -76,11 +70,9 @@ This modules introduces the basic building block of Object Oriented Programming 
 This module includes information about working with modules and loading JSON data: an important data serialization format that fits well with the type of data we've been working with so far.
 
 ### Modules
-[slides](./old-lectures/modules.html){:target="_blank" rel="noopener"}
 {% include youtube.html id="6VR6pQ-Da6E" %}
 
 ### Working with JSON Data
-[slides](./old-lectures/json.html){:target="_blank" rel="noopener"}
 {% include youtube.html id="Iu0Yeg2douY" %}
 
 Credits: Nandan Rao
