@@ -4,7 +4,8 @@ title: Material
 {% include navigation.html %}
 
 ### Lectures
-Session 1: [Notebook](./docs/python-lectures/session 1.ipynb), Variables, Data Types, Data Structures, Loops, 
+Session 1: [Notebook](./docs/python-lectures/session1.ipynb). Variables, Data Types, Data Structures, Loops, 
+
 Session 2:
 
 ### Exercises
