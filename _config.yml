@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: Intro and Intermediate Computing for Data Science 2022
-description: The programming brush-up course web-page for the Data Science Methodology MSc. at Barcelona School of Economics.
+title: Brush-up Python 2022
+github:
+  is_project_page: false
