@@ -9,4 +9,4 @@ Session 1: [Notebook](./docs/python-lectures/session1.ipynb). Variables, Data Ty
 Session 2:
 
 ### Exercises
-[Functions](https://classroom.github.com/a/dAjlnfKT), [Loops](https://classroom.github.com/a/ShzbLvYq), [Dictionaries](https://classroom.github.com/a/ZuujAbfK)
+[Functions](./docs/python-lectures/Exercises_on_functions.ipynb), [Loops](./docs/python-lectures/Exercises_on_loops.ipynb), [Tuples and dictionaries](./docs/python-lectures/Exercises_on_tuples_and_dictionaries.ipynb)
