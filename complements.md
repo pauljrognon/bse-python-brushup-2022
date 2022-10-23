@@ -3,7 +3,7 @@ title: Complements
 ---
 {% include navigation.html %}
 
-You can find videos from Nandan Rao's course. They introduce many of the concepts that you will learn during the brush-up course. The content overlaps with the current one, but not completely. The purpose of these materials is to provide additional support for you during the course.
+You can find here videos from Nandan Rao's course. The content overlaps with our brush-up, but goes beyond in some aspects. The purpose of these materials is to provide additional support for you during the course.
 
 ## 0. Introduction to Python + Variables
 
