@@ -1,5 +1,5 @@
 ---
-title: Brush-up Python 2022
+title: BSE Brush-up Python 2022
 ---
 {% include navigation.html %}
 
