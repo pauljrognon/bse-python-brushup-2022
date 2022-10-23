@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Brush-up Python 2022
 ---
 {% include navigation.html %}
 
@@ -28,7 +28,7 @@ Please bring your laptop to class. To run the notebooks:
 * Jupyter Notebook (runs on your computer): you can install Python and Jupyter Notebook by installing [Anaconda](https://docs.jupyter.org/en/latest/install/notebook-classic.html). Alternatively, you can install [Python](https://www.python.org/downloads/) and [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html) separately. Launch Jupyter Notebook, find and click on the brush-up `.ipynb` notebooks to open them.
 
 **About me**
-* PhD student in the statistical learning advised by David Rossell (UPF) and Piotr Zwiernik (U. of Toronto, UPF).
+* PhD student in statistical learning advised by David Rossell (UPF) and Piotr Zwiernik (U. of Toronto, UPF).
 * Interests: high-dimensional statistics, graphs, probabilistic machine learning, applications in genomics.
 
 **Comments**
