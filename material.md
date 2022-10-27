@@ -12,6 +12,8 @@ Session 2: [Notebook](./docs/python-lectures/session2.ipynb). Modules, Numpy, Pa
 [Functions](./docs/python-lectures/Exercises_on_functions.ipynb), [Loops](./docs/python-lectures/Exercises_on_loops.ipynb), [Tuples and dictionaries](./docs/python-lectures/Exercises_on_tuples_and_dictionaries.ipynb)  
 [Pandas1](./docs/python-lectures/exercises_pandas1.ipynb), [Pandas2](./docs/python-lectures/exercises_pandas2.ipynb)
 
+Dataset: [covid](./docs/python-lectures/covid.csv), [2015_renda](./docs/python-lectures/2015_renda.csv), [2016_renda](./docs/python-lectures/2016_renda.csv)
+
 ### Solutions
 [Functions](./docs/python-lectures/solutions_exercises_on_functions.ipynb), [Loops](./docs/python-lectures/solutions_exercises_on_loops.ipynb), [Tuples and dictionaries](./docs/python-lectures/solutions_exercises_on_tuples_and_dictionaries.ipynb)  
 [Pandas1](./docs/python-lectures/solutions_exercises_pandas1.ipynb), [Pandas2](./docs/python-lectures/solutions_exercises_pandas2.ipynb)
