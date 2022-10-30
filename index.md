@@ -25,7 +25,7 @@ This site will host all the information and material for the brush-up. Credits f
 **Technical requirements**  
 Please bring your laptop to class. To run the notebooks:
 * [Google Colab](https://colab.research.google.com/) (simpler, runs in the cloud, need a Google account e.g. BSE account): `File > Upload notebook` and upload brush-up `.ipynb` notebooks. Alternatively, you can create a new notebook by doing `File > New notebook`. [Here](https://www.youtube.com/watch?v=inN8seMm7UI) is an introductory video about Google Colab.
-* Jupyter Notebook (runs on your computer): you can install Python and Jupyter Notebook by installing [Anaconda](https://docs.jupyter.org/en/latest/install/notebook-classic.html). Alternatively, you can install [Python](https://www.python.org/downloads/) and [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html) separately. Launch Jupyter Notebook, find and click on the brush-up `.ipynb` notebooks to open them.
+* Jupyter Notebook (runs on your computer): you can install Python and Jupyter Notebook by installing [Anaconda](https://www.anaconda.com/). Alternatively, you can install [Python](https://www.python.org/downloads/) and [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html) separately. Launch Jupyter Notebook, find and click on the brush-up `.ipynb` notebooks to open them.
 
 **About me**
 * PhD student in statistical learning advised by David Rossell (UPF) and Piotr Zwiernik (U. of Toronto, UPF).
