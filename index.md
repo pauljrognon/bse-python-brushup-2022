@@ -1,22 +1,24 @@
 ---
-title: BSE Brush-up Python 2022
+title: BSE Brush-up Python 2023
 ---
 {% include navigation.html %}
 
 This site will host all the information and material for the brush-up. Credits for the material go to Miquel Torrens i Dinarès, Nandan Rao and Maxim Fedotov.
 
 **Sessions**
-* Session 1: 10:30AM-12:30AM, Room: 20.027.
-* Session 2: 9AM-11AM, Room: 40.254.
+* Session 1: XX:XXAM-XX:XXAM, Room: XX.XXX.
+* Session 2: XXAM-XXAM, Room: XX.XXX.
 * 10 minute break after the first hour.
 
 **Material**
 * In section [Material](https://pauljrognon.github.io/bse-python-brushup-2022/material.html), you will find Jupyter Notebooks to be covered in class and some exercises.
 * In section [Complements](https://pauljrognon.github.io/bse-python-brushup-2022/complements.html), you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
 
+<!---
 **Graded activity**
 * Home assignment uploaded after session 2
 * Deadline: November 3rd, 2022
+-->
 
 **Contact**
 * Email: paul.rognon@bse.eu
