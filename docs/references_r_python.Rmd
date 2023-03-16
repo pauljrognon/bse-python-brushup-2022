@@ -1,0 +1,35 @@
+---
+title: "Extra references on Python and R Programming"
+author: "Paul Rognon"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+There is bewildering number of online Python and R tutorials. Codecademy and Software Carpentry material are particularly good:
+
+## Python
+
+#### Online resources
+
+-   [codecademy Python course](https://www.codecademy.com/catalog/language/python): interactive tutorials for Python.
+-   Software Carpentry Python lessons: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) and [Plotting with Python](http://swcarpentry.github.io/python-novice-gapminder/). They are a bit more advanced than the code academy pages, and not interactive.
+
+#### Book
+
+-   [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake Van der Plas: Python programming oriented to data science with an online version and Colab notebooks.
+
+## R
+
+#### Online resources
+
+Similarly for R:
+
+-   [codecademy R course](https://www.codecademy.com/catalog/language/r): interactive tutorials for R.
+-   Software Carpentry R lessons: [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) and [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/).
+
+#### Book
+
+-   [R for Data Science](https://r4ds.had.co.nz/) by R guru Hadley Wickham and Garrett Grolemund: seen by many as the R bible. It has an online version. Second edition to be published in 2023.
