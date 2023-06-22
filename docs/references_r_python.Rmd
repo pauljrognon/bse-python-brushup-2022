@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-There is bewildering number of online Python and R tutorials. Codecademy and Software Carpentry material are particularly good:
+There is a bewildering number of online Python and R tutorials and books. Here are some recommendations:
 
 ## Python
 
