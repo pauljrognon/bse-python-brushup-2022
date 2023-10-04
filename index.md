@@ -1,5 +1,5 @@
 ---
-title: BSE Brush-up Python 2023
+title: Brush-up Python
 ---
 {% include navigation.html %}
 
@@ -11,8 +11,8 @@ This site will host all the information and material for the brush-up. Credits f
 * 10 minute break after the first hour.
 
 **Material**
-* In section [Material](https://pauljrognon.github.io/bse-python-brushup-2022/material.html), you will find Jupyter Notebooks to be covered in class and some exercises.
-* In section [Complements](https://pauljrognon.github.io/bse-python-brushup-2022/complements.html), you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
+* In section [Material](https://paulrognonvael.github.io/bse-python-brushup-2022/material.html), you will find Jupyter Notebooks to be covered in class and some exercises.
+* In section [Complements](https://paulrognonvael.github.io/bse-python-brushup-2022/complements.html), you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
 
 <!---
 **Graded activity**
