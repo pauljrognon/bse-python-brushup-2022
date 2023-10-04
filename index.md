@@ -10,9 +10,10 @@ This site will host all the information and material for the brush-up. Credits f
 * Session 2: XXAM-XXAM, Room: XX.XXX.
 * 10 minute break after the first hour.
 
-**Material**
+# Material
 * In section [Material](https://paulrognonvael.github.io/bse-python-brushup/material.html), you will find Jupyter Notebooks to be covered in class and some exercises.
-* In section [Complements](https://paulrognonvael.github.io/bse-python-brushup/complements.html), you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
+* In section [Complementary videos](https://paulrognonvael.github.io/bse-python-brushup/complements.html), you will find videos from a longer introductory course on Python by Nandan Rao. They offer complementary explanations of topics covered in our brush-up and some topics not covered in our brushup.
+* In section [Complementary videos](https://paulrognonvael.github.io/bse-python-brushup/references.html), you will find online and offñline external references.
 
 <!---
 **Graded activity**
@@ -20,23 +21,23 @@ This site will host all the information and material for the brush-up. Credits f
 * Deadline: November 3rd, 2022
 -->
 
-**Contact**
+# Contact
 * Email: paul.rognon@bse.eu
 * Office: 23.101, Mercè Rodoreda building (23), 1st floor.
 
-**Technical requirements**
+# Technical requirements
 
 The course material will be notebooks (`.ipynb` files). 
 
 To open and run an existing`.ipynb` notebooks, **two possible options** are:
 
--   **<font size="3">Google Colab</font>**: the simplest and **preferred option for our course**. Notebooks are run in the cloud. **You need a Google account** (e.g. a BSE account). To start Google Colab, click [here](https://colab.research.google.com/). To open an `.ipynb` file with Colab you need to upload it to Colab: click on 'Upload' on the top right corner of the opening window. If you already have a notebook open in Colab you can open an existing `.ipynb` notebook clicking on File \> Upload notebook.
+-   **Google Colab**: the simplest and **preferred option for our course**. Notebooks are run in the cloud. **You need a Google account** (e.g. a BSE account). To start Google Colab, click [here](https://colab.research.google.com/). To open an `.ipynb` file with Colab you need to upload it to Colab: click on 'Upload' on the top right corner of the opening window. If you already have a notebook open in Colab you can open an existing `.ipynb` notebook clicking on File \> Upload notebook.
 
 **<font size="3">OR</font>**
 
--   **<font size="3">Jupyter Notebook application</font>**: the notebooks are run on your personal computer. **If you go with that option, you will need to install Python, R and Jupyter Notebook on your personal computer**. You can have the three of them by installing the [Anaconda](https://www.anaconda.com/) distribution. Alternatively, you can install [Python](https://www.python.org/downloads/), [R](https://cran.r-project.org/) and [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html) separately. To open an existing `.ipynb` notebook: launch Jupyter Notebook (opens a tab in your web browser), and, on the welcome screen, navigate to your `.ipynb` file and click on it. Alternatively, use the Upload button in the top right corner of the welcome screen.
+-   **Jupyter Notebook application**: the notebooks are run on your personal computer. **If you go with that option, you will need to install Python, R and Jupyter Notebook on your personal computer**. You can have the three of them by installing the [Anaconda](https://www.anaconda.com/) distribution. Alternatively, you can install [Python](https://www.python.org/downloads/), [R](https://cran.r-project.org/) and [Jupyter Notebook](https://docs.jupyter.org/en/latest/install/notebook-classic.html) separately. To open an existing `.ipynb` notebook: launch Jupyter Notebook (opens a tab in your web browser), and, on the welcome screen, navigate to your `.ipynb` file and click on it. Alternatively, use the Upload button in the top right corner of the welcome screen.
 
-**Notebooks**
+## Notebooks
 
 Shortly, notebooks are documents that combine live code, equations, narrative text and visualizations. In a single document, you can write code, show the code output, write markdown type content, show text and visual outputs. Jupyter/`.ipynb` notebooks are a type of notebooks originally developped for Python and have extension `.ipynb`. The document you are seeing is an example of `.ipynb` notebook converted to a PDF document.
 
@@ -70,7 +71,7 @@ In Jupyter Notebook application, to create a new notebook from scracth, two poss
 - launch Jupyter Notebook app, click on the New button in the top right corner of the welcome screen and select Python 3. 
 - If you already have a notebook open, you can create a new notebook from scracth by doing File \> New notebook \> Python 3.
 
-**Google Colab**
+## Google Colab
 
 In class, we will be working in Google Colab which is a powerful online environment to create, edit and run `.ipynb` notebooks. It is constantly evolving and new features are added. Working with Google Colab is very similar to working with the Jupyter Notebook application. Many of the features for the edition of code and display of output in Google Colab are available on the Jupyter Notebook application too.
 
@@ -90,10 +91,10 @@ An easy way to run an `.ipynb` notebook with R code in the Jupyter Notebook appl
 
 **Note Bene**: If you want to run Python and P code in the same script or notebook/r markdown, there are packages that translate the two languages. `reticulate` is a R package that lets you write Python code and run it in R. `rpy2` is a Python library that lets you write R code and run it in Python.
 
-**About me**
-* PhD student in statistical learning advised by David Rossell (UPF) and Piotr Zwiernik (U. of Toronto, UPF).
+# About me
+* PhD student in statistical learning advised by David Rossell (UPF) and Piotr Zwiernik (U. of Toronto).
 * Interests: high-dimensional statistics, graphs, probabilistic machine learning, applications in genomics.
 
-**Comments**
+# Comments
 * Please ask any question you might have.
 * Python is one of the most popular programming languages. You will find plenty of ressources on internet and in particular on Stack Overflow. Just google your doubts!

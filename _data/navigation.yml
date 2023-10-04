@@ -1,8 +1,11 @@
 - title: Home
-  link: /bse-python-brushup-2022
+  link: /bse-python-brushup
 
 - title: Material
-  link: /bse-python-brushup-2022/material.html
+  link: /bse-python-brushup/material.html
 
-- title: Complements
-  link: /bse-python-brushup-2022/complements.html
+- title: Complementary videos
+  link: /bse-python-brushup/complements.html
+
+- title: References
+  link: /bse-python-brushup/references.html
