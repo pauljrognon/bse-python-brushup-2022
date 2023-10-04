@@ -5,7 +5,7 @@ title: Brush-up Python
 
 This site will host all the information and material for the brush-up. Credits for the material go to Miquel Torrens i Dinarès, Nandan Rao and Maxim Fedotov.
 
-**Sessions**
+# Sessions
 * Session 1: XX:XXAM-XX:XXAM, Room: XX.XXX.
 * Session 2: XXAM-XXAM, Room: XX.XXX.
 * 10 minute break after the first hour.
@@ -25,6 +25,7 @@ This site will host all the information and material for the brush-up. Credits f
 * Office: 23.101, Mercè Rodoreda building (23), 1st floor.
 
 **Technical requirements**
+
 The course material will be notebooks (`.ipynb` files). 
 
 To open and run an existing`.ipynb` notebooks, **two possible options** are:
@@ -80,6 +81,8 @@ A major advantage of Google Colab is that it executes your code on Google's clou
 A big difference with Jupyther Notebook application is that since Colab runs in the cloud, you cannot simply read a file located on your computer by inputing a path to the location on your computer. You need to first upload the file to your Colab environment or to you Google Drive and mount the Drive. We will talk more about it later.
 
 Another consequence of working in the cloud is that the changes you make to a notebook will be saved on the cloud. If you want to save your edited notebook on your computer you need to download a copy of it: File \> Download.
+
+**Note Bene**: While initially developped for Python programming, `.ipynb` notebooks, Google Colab and the Jupyter Notebook application now all support R programming. We will used `.ipynb` notebooks and Google Colab for the `R` part of the course too.
 
 **How to run an R `.ipynb` notebook in the Jupter Notebook application**
 
