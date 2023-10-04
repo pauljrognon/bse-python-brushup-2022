@@ -3,7 +3,7 @@ title: Brush-up Python
 ---
 {% include navigation.html %}
 
-This site will host all the information and material for the brush-up. Credits for the material go to Miquel Torrens i Dinarès, Nandan Rao and Maxim Fedotov.
+This site will host all the information and material for the brush-up. Credits for the material also go to Miquel Torrens i Dinarès, Nandan Rao and Maxim Fedotov.
 
 # Sessions
 * Session 1: XX:XXAM-XX:XXAM, Room: XX.XXX.
