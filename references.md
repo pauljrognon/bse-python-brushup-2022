@@ -3,7 +3,7 @@ title: References
 ---
 {% include navigation.html %}
 
-There is a bewildering number of online Pythontutorials and books. Here are some recommendations:
+There is a bewildering number of online Python tutorials and books. Here are some recommendations:
 
 **Online resources**
 

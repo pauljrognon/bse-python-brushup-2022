@@ -39,7 +39,9 @@ To open and run an existing`.ipynb` notebooks, **two possible options** are:
 
 ## Notebooks
 
-Shortly, notebooks are documents that combine live code, equations, narrative text and visualizations. In a single document, you can write code, show the code output, write markdown type content, show text and visual outputs. Jupyter/`.ipynb` notebooks are a type of notebooks originally developped for Python and have extension `.ipynb`. The document you are seeing is an example of `.ipynb` notebook converted to a PDF document.
+Shortly, notebooks are documents that combine live code, equations, narrative text and visualizations. In a single document, you can write code, show the code output, write markdown type content, show text and visual outputs. Jupyter/`.ipynb` notebooks are a type of notebooks originally developped for Python and have extension `.ipynb`.
+
+### Writing and running code in a notebook
 
 `.ipynb` notebooks are composed of cells that can be text or code:
 
@@ -63,6 +65,8 @@ In a text cell you can include markdown content: text, hyperlinks, equations...Y
 - add a link: [link to google.com](http://www.google.com)  
 - add formulas: $\hat{\beta}=(X^TX)^{-1}X^Ty$
 
+### Creating a new notebook
+
 In Colab, to create a new notebook from scracth, two possible options are:
 - launch Colab, the landing page is a new notebook by default, click cancel on opening window 
 - if you have a notebook already open, do File \> New notebook.
@@ -85,7 +89,7 @@ Another consequence of working in the cloud is that the changes you make to a no
 
 **Note Bene**: While initially developped for Python programming, `.ipynb` notebooks, Google Colab and the Jupyter Notebook application now all support R programming. We will used `.ipynb` notebooks and Google Colab for the `R` part of the course too.
 
-**How to run an R `.ipynb` notebook in the Jupter Notebook application**
+## How to run an R `.ipynb` notebook in the Jupter Notebook application
 
 An easy way to run an `.ipynb` notebook with R code in the Jupyter Notebook application is through Anaconda. Launch the Anaconda Navigator, click on Environments on the left, then click on the Create button at the bottom to create a new environment. In the window that opens, choose a name for your environment, tick both R and Python boxes and press create. From now on you will have two different environments set up for your programming with Anaconda: base (root) and the one you have just created. Go back to the home of Anaconda Navigator, in the top bar "Applications on   ", select your new environment. After it is fully loaded, click on the launch button of the Jupyter Notebook application. You should be able to open and run .ipynb notebooks with R code.
 
